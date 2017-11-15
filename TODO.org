@@ -1,0 +1,10 @@
+* TODO Towards a 1.0								:milestone:
+    - [-] Viable OfficeTeam Search
+          - [X] Basic Search
+          - [ ] Paginated Search
+    - [ ] Decide on a second search example
+    - [ ] Configuration
+          - [ ] List of Sites to search
+    - [ ] Plugin API Documentation
+          - A data format specification for opportunities
+          - Consider Semweb 
